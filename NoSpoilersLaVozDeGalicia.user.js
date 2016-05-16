@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       Borja Pintos
-//@downloadURL   https://github.com/BorjaPintos/NoSpoilers/blob/master/PepitoScript.user.js
+//@downloadURL   https://github.com/BorjaPintos/NoSpoilers/blob/master/NoSpoilersLaVozDeGalicia.user
 // @match        *://*.lavozdegalicia.es/*
 // @grant        none
 // ==/UserScript==
