@@ -1,4 +1,4 @@
-pepitoScript
+NoSpoilersLaVozDeGalicia
 ============
 
 #Script that we uses in www.lavozdegalicia.es
